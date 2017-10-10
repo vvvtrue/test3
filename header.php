@@ -1,4 +1,4 @@
-<html>
+<?php $header='<html>
   <head>
     <title>Домашняя работа1</title>
     <link href="style.css" rel="stylesheet">
@@ -23,4 +23,14 @@
   		</div>
   		</div>
   	</div>
-  	<hr/>
+  	<hr/>';
+
+  	echo $header;
+
+  	$full_name;
+  	$first_name;
+  	$post_date;
+  	$post_date;
+  	$task_list;
+  	print_r($post_date);
+  	var_dump($post_date);
