@@ -12,11 +12,11 @@
         </div>	
 		<div id="text_menu">
 			<a href="">Лента</a>
-			<a href="">Добавить запись</a>
+			<a href="add_note.php">Добавить запись</a>
 			<a href="">О проекте</a>
 		</div>		
 		<div id="search_div">
-  		<form action="">
+  		<form action="" method="get">
   			<input type="text" name="search" placeholder="Поиск...">
   			<input type="submit" value="GO">
   		</form>
